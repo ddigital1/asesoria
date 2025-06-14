@@ -1,12 +1,4 @@
-/*
-* Template Name: Story
-* Template Author: Untree.co
-* Template License: https://creativecommons.org/licenses/by/3.0/
-* Author URI: https://untree.co/
 
-* Twitter: https://twitter.com/Untree_co
-* Facebook: https://web.facebook.com/Untree.co/
-*/
 .menu-absolute {
   position: absolute;
   right: 0; }
@@ -1407,8 +1399,8 @@ input[type="password"] {
 	margin-bottom: 90px;
 }
   .featured-post .post-slide {
-    background-size: 100%;
-	background-repeat:no-repeat;
+    background-size: cover;
+	/*background-repeat:no-repeat;*/
     background-position: center center;
     height: 100vh;
     min-height: 560px;
